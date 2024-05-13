@@ -1,4 +1,4 @@
 # GDP-Analysis
 Data Analytics Project
 
-<img src="https://facts.net/wp-content/uploads/2023/10/18-fascinating-facts-about-gross-domestic-product-gdp-1696867392.jpg" height="200">
+<img src="https://ourworldindata.org/grapher/thumbnail/national-gdp-constant-usd-wb.png?imType=twitter" height="200">
