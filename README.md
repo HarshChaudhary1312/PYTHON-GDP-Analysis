@@ -23,7 +23,7 @@ The following Python libraries were used for data analysis and visualization:
 
 The project is structured as follows:
 
-- `gdp_analysis.ipynb`: Jupyter Notebook containing the analysis process.
+- `GDP-Analysis.ipynb`: Jupyter Notebook containing the analysis process.
 - `gdp_dataset.csv`: The dataset used for analysis.
 - `README.md`: This file, providing an overview of the project and instructions for usage.
 
@@ -37,15 +37,15 @@ The analysis includes the following steps:
 4. **GDP Growth Analysis**: Visualizing the GDP growth over the years for the world and individual countries.
 5. **Top 20 GDPs**: Grouping countries' GDPs to find the top 20 GDPs.
 6. **Plotting with Plotly**: Using Plotly to create interactive graphs for the GDPs of countries and comparison graphs.
-7. **Downloading Graphs**: Saving the graphs as HTML files for further analysis or sharing.
+7. **Downloading Graphs**: Saving the graphs as HTML files using plotly.offline for further analysis or sharing.
 
 ## How to Use
 
 To run the analysis notebook:
 
 1. Clone this repository to your local machine.
-2. Install the required Python libraries mentioned in the `requirements.txt` file.
-3. Open `gdp_analysis.ipynb` in Jupyter Notebook or JupyterLab.
+2. Install the required Python libraries mentioned in the `GDP-Analysis` file.
+3. Open `GDP-Analysis.ipynb` in Jupyter Notebook or JupyterLab.
 4. Follow the instructions in the notebook to execute the cells and explore the dataset.
 
 ## Contribution
